@@ -1,0 +1,28 @@
+{
+  "beneficients": [
+    {
+      "id": 1,
+      "country": "Albania"
+    },
+    {
+    	"id": 2,
+    	"country": "Bosnia and Herzegovina"
+    },
+    {
+    	"id": 3,
+    	"country": "Macedonia"
+    },
+    {
+    	"id": 4,
+    	"country": "Kosovo"
+    },
+    {
+    	"id": 5,
+    	"country": "Montenegro"
+    },
+    {
+    	"id": 6,
+    	"country": "Serbia"
+    }
+  ]
+}
