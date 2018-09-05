@@ -1,28 +1,81 @@
-{
-  "beneficients": [
-    {
-      "id": 1,
-      "country": "Albania"
-    },
-    {
-    	"id": 2,
-    	"country": "Bosnia and Herzegovina"
-    },
-    {
-    	"id": 3,
-    	"country": "Macedonia"
-    },
-    {
-    	"id": 4,
-    	"country": "Kosovo"
-    },
-    {
-    	"id": 5,
-    	"country": "Montenegro"
-    },
-    {
-    	"id": 6,
-    	"country": "Serbia"
-    }
-  ]
-}
+[
+  {
+    "Name": "Secondary  Heading",
+    "Key": "secondaryHeading",
+    "Values": [
+      "Any of the above",
+      "Participation of Women",
+      "Participation of National Minorities",
+      "Participation of Persons with Disabilities"
+    ]
+  },
+  {
+    "Name": "Progress of addressing the recommendation",
+    "Key": "progressOfAddressingTheRecommendation",
+    "Values": ["Fully", "Mostly", "Partially", "Not Implemented"]
+  },
+  {
+    "Name": "Status",
+    "Key": "status",
+    "Values": [
+      "Repeated (in a following report)",
+      "Outdated",
+      "Part of the Project"
+    ]
+  },
+  {
+    "Name": "Media - Textbox",
+    "Key": "media",
+    "Values": [null]
+  },
+  {
+    "Name": "Primary Heading",
+    "Key": "primaryHeading",
+    "Values": [
+      "Electoral System",
+      "Legal Framework",
+      "Election Administration",
+      "Voter Registration",
+      "Candidate Registration",
+      "Campaign Environment",
+      "Campaign Finance",
+      "Media",
+      "Participation of National Minorities",
+      "Participation of Women",
+      "Citizen and International Observation",
+      "Complaints and Appeals",
+      "Election Day",
+      "New Voting Technologies"
+    ]
+  },
+  {
+    "Name": "Type of change required",
+    "Key": "typeOfChangeRequired",
+    "Values": [
+      "Legal Change (by Parliament)",
+      "Sub-legal Change (Electoral Rules and Regulations which do not require parliamentary review)",
+      "Implementation/Practice",
+      "Other"
+    ]
+  },
+  {
+    "Name": "Type of election",
+    "Key": "typeOfElection",
+    "Values": ["Presidential", "Parliamentary", "Local", "Referenda"]
+  },
+  {
+    "Name": "Type of election observation activity",
+    "Key": "typeOfElectionObservationActivity",
+    "Values": [
+      "Election Observation Missions (EOM)",
+      "Limited Election Observation Missions (LEOM)",
+      "Election Assessment Missions (EAM)",
+      "Election Expert Teams (EET)"
+    ]
+  },
+  {
+    "Name": "Type of recommendation",
+    "Key": "typeOfRecommendation",
+    "Values": ["Priority", "Other"]
+  }
+]
