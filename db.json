@@ -52,43 +52,5 @@
       "Election Day",
       "New Voting Technologies"
     ]
-  },
-  {
-    "Name": "Type of change required",
-    "Key": "typeOfChangeRequired",
-    "Values": [
-      "Legal Change (by Parliament)",
-      "Sub-legal Change (Electoral Rules and Regulations which do not require parliamentary review)",
-      "Implementation/Practice",
-      "Other"
-    ]
-  },
-  {
-    "Name": "Type of election",
-    "Key": "typeOfElection",
-    "Values": [
-      "Presidential",
-      "Parliamentary", 
-      "Local", 
-      "Referenda"
-    ]
-  },
-  {
-    "Name": "Type of election observation activity",
-    "Key": "typeOfElectionObservationActivity",
-    "Values": [
-      "Election Observation Missions (EOM)",
-      "Limited Election Observation Missions (LEOM)",
-      "Election Assessment Missions (EAM)",
-      "Election Expert Teams (EET)"
-    ]
-  },
-  {
-    "Name": "Type of recommendation",
-    "Key": "typeOfRecommendation",
-    "Values": [
-      "Priority", 
-      "Other"
-    ]
   }
 ]
