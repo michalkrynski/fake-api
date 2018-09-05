@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Secondary  Heading",
+    "Name": "Secondary Heading",
     "Key": "secondaryHeading",
     "Values": [
       "Any of the above",
@@ -12,7 +12,12 @@
   {
     "Name": "Progress of addressing the recommendation",
     "Key": "progressOfAddressingTheRecommendation",
-    "Values": ["Fully", "Mostly", "Partially", "Not Implemented"]
+    "Values": [
+      "Fully", 
+      "Mostly", 
+      "Partially", 
+      "Not Implemented"
+    ]
   },
   {
     "Name": "Status",
@@ -61,7 +66,12 @@
   {
     "Name": "Type of election",
     "Key": "typeOfElection",
-    "Values": ["Presidential", "Parliamentary", "Local", "Referenda"]
+    "Values": [
+      "Presidential",
+      "Parliamentary", 
+      "Local", 
+      "Referenda"
+    ]
   },
   {
     "Name": "Type of election observation activity",
@@ -76,6 +86,9 @@
   {
     "Name": "Type of recommendation",
     "Key": "typeOfRecommendation",
-    "Values": ["Priority", "Other"]
+    "Values": [
+      "Priority", 
+      "Other"
+    ]
   }
 ]
