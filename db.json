@@ -9,20 +9,6 @@
       "Participation of Persons with Disabilities"
     ]
   },
-  "progressOfAddressingTheRecommendation": {
-    "Name": "Progress of addressing the recommendation",
-    "Key": "progressOfAddressingTheRecommendation",
-    "Values": ["Fully", "Mostly", "Partially", "Not Implemented"]
-  },
-  "status": {
-    "Name": "Status",
-    "Key": "status",
-    "Values": [
-      "Repeated (in a following report)",
-      "Outdated",
-      "Part of the Project"
-    ]
-  },
   "media": {
     "Name": "Media - Textbox",
     "Key": "media",
