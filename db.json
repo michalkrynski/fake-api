@@ -43,25 +43,5 @@
       "Implementation/Practice",
       "Other"
     ]
-  },
-  "typeOfElection": {
-    "Name": "Type of election",
-    "Key": "typeOfElection",
-    "Values": ["Presidential", "Parliamentary", "Local", "Referenda"]
-  },
-  "typeOfElectionObservationActivity": {
-    "Name": "Type of election observation activity",
-    "Key": "typeOfElectionObservationActivity",
-    "Values": [
-      "Election Observation Missions (EOM)",
-      "Limited Election Observation Missions (LEOM)",
-      "Election Assessment Missions (EAM)",
-      "Election Expert Teams (EET)"
-    ]
-  },
-  "typeOfRecommendation": {
-    "Name": "Type of recommendation",
-    "Key": "typeOfRecommendation",
-    "Values": ["Priority", "Other"]
   }
 }
