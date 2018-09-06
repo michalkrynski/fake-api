@@ -1,6 +1,6 @@
-schema: [
-  {
-    "Name": "Secondary Heading",
+{
+  "secondaryHeading": {
+    "Name": "Secondary  Heading",
     "Key": "secondaryHeading",
     "Values": [
       "Any of the above",
@@ -9,17 +9,12 @@ schema: [
       "Participation of Persons with Disabilities"
     ]
   },
-  {
+  "progressOfAddressingTheRecommendation": {
     "Name": "Progress of addressing the recommendation",
     "Key": "progressOfAddressingTheRecommendation",
-    "Values": [
-      "Fully", 
-      "Mostly", 
-      "Partially", 
-      "Not Implemented"
-    ]
+    "Values": ["Fully", "Mostly", "Partially", "Not Implemented"]
   },
-  {
+  "status": {
     "Name": "Status",
     "Key": "status",
     "Values": [
@@ -28,12 +23,12 @@ schema: [
       "Part of the Project"
     ]
   },
-  {
+  "media": {
     "Name": "Media - Textbox",
     "Key": "media",
     "Values": [null]
   },
-  {
+  "primaryHeading": {
     "Name": "Primary Heading",
     "Key": "primaryHeading",
     "Values": [
@@ -52,5 +47,35 @@ schema: [
       "Election Day",
       "New Voting Technologies"
     ]
+  },
+  "typeOfChangeRequired": {
+    "Name": "Type of change required",
+    "Key": "typeOfChangeRequired",
+    "Values": [
+      "Legal Change (by Parliament)",
+      "Sub-legal Change (Electoral Rules and Regulations which do not require parliamentary review)",
+      "Implementation/Practice",
+      "Other"
+    ]
+  },
+  "typeOfElection": {
+    "Name": "Type of election",
+    "Key": "typeOfElection",
+    "Values": ["Presidential", "Parliamentary", "Local", "Referenda"]
+  },
+  "typeOfElectionObservationActivity": {
+    "Name": "Type of election observation activity",
+    "Key": "typeOfElectionObservationActivity",
+    "Values": [
+      "Election Observation Missions (EOM)",
+      "Limited Election Observation Missions (LEOM)",
+      "Election Assessment Missions (EAM)",
+      "Election Expert Teams (EET)"
+    ]
+  },
+  "typeOfRecommendation": {
+    "Name": "Type of recommendation",
+    "Key": "typeOfRecommendation",
+    "Values": ["Priority", "Other"]
   }
-]
+}
